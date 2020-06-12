@@ -1,0 +1,16 @@
+[
+  {
+	"BankID": 2,
+    "DownloadFolder": "SftpDownloads",
+    "DbaseConStr": "Server=10.88.87.68;Database=LCDB_01_SYS;User=allcard;Password=MikasaAckerman#;",
+	"SftpHost": "sftp.allcardtech.com.ph",
+	"SftpPort": "2022",
+	"SftpUser": "bayambang",
+	"SftpPass": "Argon2016*",
+	"SftpSshHostKeyFingerprint": "ssh-ed25519 256 20:c3:ed:d6:8b:ef:83:0c:5f:e0:0b:58:78:93:6b:c6",
+	"SftpRemotePath": "/Bayambang/test e/TestFolder1/AUB/*.*",
+	"BankWsPassword": "@uBPAs$22*",
+	"IsDownloadFromSFTP": 1
+  }
+]
+

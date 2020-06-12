@@ -1,0 +1,14 @@
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\NLog.config
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\aub_loanDeducListPuller.exe.config
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\aub_loanDeducListPuller.exe
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\aub_loanDeducListPuller.pdb
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\NLog.dll
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\NLog.xml
+D:\WORK\Projects\aub_loanDeducListPuller\obj\Debug\aub_loanDeducListPuller.csprojAssemblyReference.cache
+D:\WORK\Projects\aub_loanDeducListPuller\obj\Debug\aub_loanDeducListPuller.csproj.CopyComplete
+D:\WORK\Projects\aub_loanDeducListPuller\obj\Debug\aub_loanDeducListPuller.exe
+D:\WORK\Projects\aub_loanDeducListPuller\obj\Debug\aub_loanDeducListPuller.pdb
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\WinSCP.exe
+D:\WORK\Projects\aub_loanDeducListPuller\bin\Debug\WinSCPnet.dll

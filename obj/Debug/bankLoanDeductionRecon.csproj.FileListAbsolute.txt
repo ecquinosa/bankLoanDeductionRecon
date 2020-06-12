@@ -1,0 +1,14 @@
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\NLog.config
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\WinSCP.exe
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\bankLoanDeductionRecon.exe.config
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\bankLoanDeductionRecon.exe
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\bankLoanDeductionRecon.pdb
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\Newtonsoft.Json.dll
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\NLog.dll
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\WinSCPnet.dll
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\Newtonsoft.Json.xml
+D:\WORK\Projects\bankLoanDeductionRecon\bin\Debug\NLog.xml
+D:\WORK\Projects\bankLoanDeductionRecon\obj\Debug\bankLoanDeductionRecon.csprojAssemblyReference.cache
+D:\WORK\Projects\bankLoanDeductionRecon\obj\Debug\bankLoanDeductionRecon.csproj.CopyComplete
+D:\WORK\Projects\bankLoanDeductionRecon\obj\Debug\bankLoanDeductionRecon.exe
+D:\WORK\Projects\bankLoanDeductionRecon\obj\Debug\bankLoanDeductionRecon.pdb

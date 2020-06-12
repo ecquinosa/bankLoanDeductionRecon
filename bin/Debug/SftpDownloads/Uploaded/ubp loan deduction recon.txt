@@ -1,0 +1,9 @@
+Crediting Report
+Pag-IBIG Loyalty Card
+P125 Card Fee from Loan Deduction
+04/14/2020
+
+Pag-IBIG MID	    Card Release Date	Loan Deduction Date	Ref Num	            Amount
+192800000314693     04/13/2020          04/02/2020          LD-0001-80580036474 125
+192810000340830     04/13/2020          04/02/2020          LD-0001-27640746751 125
+Total     250
